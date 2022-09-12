@@ -1,0 +1,12 @@
+message
+
+"REPORT RequestId: 650c675a-7928-45ae-8368-c78ecbaeeeee	Duration: 1.83 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 57 MB	
+"
+"START RequestId: 0db2dc0b-133a-4ce8-8323-9074e1199688 Version: $LATEST
+"
+"2022-09-12T22:00:41.143Z	0db2dc0b-133a-4ce8-8323-9074e1199688	INFO	{ num1: 1, num2: 2 }
+"
+"END RequestId: 0db2dc0b-133a-4ce8-8323-9074e1199688
+"
+"REPORT RequestId: 0db2dc0b-133a-4ce8-8323-9074e1199688	Duration: 1.90 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 58 MB	
+"
